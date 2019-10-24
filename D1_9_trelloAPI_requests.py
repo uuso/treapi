@@ -103,4 +103,4 @@ if __name__ == "__main__":
     elif sys.argv[1] == 'move':    
         move(sys.argv[2], sys.argv[3])
     elif sys.argv[1] == 'newlist':
-        newlist(sys.argv[2])
+        newlist(sys.argv[2]) 
