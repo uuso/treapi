@@ -3,8 +3,8 @@ import requests
   
 # Данные авторизации в API Trello  
 auth_params = {    
-    'key': "", 
-    'token': "", }  
+    'key': "268ed8a53269b7e449168eb288062f6d", 
+    'token': "18107af3ce496465f3fe53df2e6a458b69b6942c9c4eb69d0945202240dc656d", }  
   
 base_url = "https://api.trello.com/1/{}" 
 board_id = "85m59MCb"
